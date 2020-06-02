@@ -7,12 +7,12 @@
 include $(TOPDIR)/rules.mk
 
 PKG_NAME:=v2ray-plugin
-PKG_VERSION:=1.2.0
-PKG_RELEASE:=2
+PKG_VERSION:=1.3.1
+PKG_RELEASE:=1
 
 PKG_SOURCE_PROTO:=git
 PKG_SOURCE_URL:=https://github.com/shadowsocks/v2ray-plugin.git
-PKG_SOURCE_VERSION:=0754d6edd7f37134b0f046728378ffc32e5b93cb
+PKG_SOURCE_VERSION:=b9717056b251747149cacb44458fe02e420b9d9b
 
 PKG_MAINTAINER:=Simon Shi <simonsmh@gmail.com>
 PKG_LICENSE:=MIT
